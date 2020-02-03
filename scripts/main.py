@@ -56,6 +56,7 @@ ax.set_zlabel("Scores")
 #
 ax.scatter(x, y, z, c=kmeans.labels_, cmap='rainbow')
 plt.grid(False)
+plt.legend(loc='best', bbox_to_anchor=(1, 1), prop={'size': 9})
 plt.show()
 
 corr = pd.DataFrame(data, columns=['received', 'followed', 'score'])
@@ -63,11 +64,3 @@ corr = pd.DataFrame(data, columns=['received', 'followed', 'score'])
 correlation = corr.corr(method='pearson')
 
 print(correlation)
-
-
-def test(a, *args, **kwargs):
-    print(a)
-    print(args)
-    print(kwargs)
-    print(*args)
-    print(**kwargs)
