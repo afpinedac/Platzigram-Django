@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1439c82f-bb61-43d3-866a-74318803a919" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/survery2.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/survery2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,9 +166,6 @@
       <module name="untitled7" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -295,7 +291,8 @@
       <workItem from="1580131394956" duration="471000" />
       <workItem from="1580134774175" duration="1187000" />
       <workItem from="1580672354764" duration="9309000" />
-      <workItem from="1580743245279" duration="299000" />
+      <workItem from="1580743245279" duration="1375000" />
+      <workItem from="1580831403817" duration="1156000" />
     </task>
     <servers />
   </component>
@@ -312,10 +309,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580743245303">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580831478375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1050.-1050.1050.1640/0.-1080.2560.1040@0.0.1920.1040" timestamp="1580672384999" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/0.-1080.2560.1040/-1050.-1050.1050.1640@0.0.1920.1040" timestamp="1580831478375" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580743245303" />
     <state x="976" y="-828" width="607" height="536" key="find.popup" timestamp="1579820768107">
       <screen x="0" y="-1080" width="2560" height="1040" />
