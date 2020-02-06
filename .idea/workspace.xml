@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1439c82f-bb61-43d3-866a-74318803a919" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/survery2.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/survery2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,6 +295,7 @@
       <workItem from="1580672354764" duration="9309000" />
       <workItem from="1580743245279" duration="1375000" />
       <workItem from="1580831403817" duration="5792000" />
+      <workItem from="1581001339864" duration="781000" />
     </task>
     <servers />
   </component>

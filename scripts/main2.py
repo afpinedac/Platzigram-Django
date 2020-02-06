@@ -1,15 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from statistics import mean
-from sklearn.cluster import KMeans
-from mpl_toolkits.mplot3d import Axes3D
-from scipy.stats.stats import pearsonr
 import pandas as pd
-import random
-import math
-import sys
-import numpy
-from statistics import mean, median, stdev
 from scipy import stats
 
 # plt.figure(figsize=(3, 4))
