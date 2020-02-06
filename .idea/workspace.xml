@@ -166,6 +166,9 @@
       <module name="untitled7" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -292,7 +295,7 @@
       <workItem from="1580134774175" duration="1187000" />
       <workItem from="1580672354764" duration="9309000" />
       <workItem from="1580743245279" duration="1375000" />
-      <workItem from="1580831403817" duration="1156000" />
+      <workItem from="1580831403817" duration="5792000" />
     </task>
     <servers />
   </component>
@@ -309,9 +312,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580831478375">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="875" y="-735" key="com.intellij.ide.util.TipDialog" timestamp="1581001352374">
+      <screen x="0" y="-1080" width="2560" height="1040" />
     </state>
+    <state x="875" y="-735" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1050.-1050.1050.1640/0.-1080.2560.1040@0.-1080.2560.1040" timestamp="1581001352374" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1050.-1050.1050.1640/0.-1080.2560.1040@0.0.1920.1040" timestamp="1580672384999" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/0.-1080.2560.1040/-1050.-1050.1050.1640@0.0.1920.1040" timestamp="1580831478375" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580743245303" />
